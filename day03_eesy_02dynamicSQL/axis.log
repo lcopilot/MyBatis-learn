@@ -1,0 +1,733 @@
+2019-10-11 11:14:06,413 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:14:06,546 133    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:14:06,546 133    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:14:06,546 133    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:14:06,546 133    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:15:28,778 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:15:28,906 128    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:15:28,906 128    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:15:28,907 129    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:15:28,907 129    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:18:36,388 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:18:36,495 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:18:36,495 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:18:36,495 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:18:36,496 108    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:19:33,990 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:19:34,088 98     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:19:34,088 98     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:19:34,088 98     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:19:34,088 98     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:20:39,520 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:20:39,629 109    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:20:39,629 109    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:20:39,629 109    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:20:39,629 109    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:20:39,856 336    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 11:20:40,092 572    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 422392391.
+2019-10-11 11:20:40,092 572    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:20:40,094 574    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user where 1=1 username=? 
+2019-10-11 11:20:40,124 604    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 11:20:40,127 607    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:20:40,127 607    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:20:40,127 607    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 422392391 to pool.
+2019-10-11 11:21:24,416 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:21:24,512 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:21:24,512 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:21:24,512 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:21:24,512 96     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:21:24,623 207    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 11:21:24,837 421    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 422392391.
+2019-10-11 11:21:24,837 421    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:21:24,839 423    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user where 1=1 username=? 
+2019-10-11 11:21:24,864 448    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: ss(String)
+2019-10-11 11:21:24,868 452    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:21:24,868 452    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:21:24,868 452    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 422392391 to pool.
+2019-10-11 11:25:30,622 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:25:30,723 101    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:25:30,724 102    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:25:30,724 102    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:25:30,724 102    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:25:30,841 219    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 11:25:31,064 442    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 422392391.
+2019-10-11 11:25:31,064 442    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:25:31,066 444    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user where 1=1 and username=? 
+2019-10-11 11:25:31,095 473    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 11:25:31,145 523    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 11:25:31,149 527    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:25:31,149 527    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@192d3247]
+2019-10-11 11:25:31,149 527    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 422392391 to pool.
+2019-10-11 11:26:33,157 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:26:33,274 117    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:26:33,274 117    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:26:33,274 117    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:26:33,274 117    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:29:41,600 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 11:29:41,669 69     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 11:29:41,670 70     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 11:29:41,670 70     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 11:29:41,671 71     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 11:29:41,671 71     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 11:29:41,671 71     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 11:29:41,672 72     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 11:29:41,709 109    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 11:29:41,710 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 11:29:41,710 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 11:29:41,710 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 11:29:41,710 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 11:29:41,712 112    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 11:29:41,712 112    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 11:29:41,712 112    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 11:29:41,713 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 11:29:41,714 114    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 11:29:41,714 114    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 11:29:41,735 135    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:29:41,735 135    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:29:41,735 135    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:29:41,736 136    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 11:29:41,863 263    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 11:29:42,093 493    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 209833425.
+2019-10-11 11:29:42,093 493    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c81cdd1]
+2019-10-11 11:29:42,095 495    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user where 1=1 and username=? 
+2019-10-11 11:29:42,120 520    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 11:29:42,140 540    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 11:29:42,143 543    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c81cdd1]
+2019-10-11 11:29:42,143 543    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@c81cdd1]
+2019-10-11 11:29:42,143 543    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 209833425 to pool.
+2019-10-11 13:29:40,679 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:29:40,780 101    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:29:40,780 101    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:29:40,781 102    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:29:40,781 102    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:29:40,782 103    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:29:40,782 103    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:29:40,783 104    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:29:40,827 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:29:40,827 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:29:40,828 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:29:40,828 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:29:40,829 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:29:40,830 151    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 13:29:40,831 152    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:29:40,831 152    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:29:40,832 153    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:29:40,833 154    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:29:40,833 154    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:29:40,860 181    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:29:40,860 181    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:29:40,860 181    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:29:40,860 181    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:29:41,004 325    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 13:29:41,262 583    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 712025048.
+2019-10-11 13:29:41,262 583    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a70a3d8]
+2019-10-11 13:29:41,264 585    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user where 1=1 and username=? 
+2019-10-11 13:29:41,292 613    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 13:29:41,320 641    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 13:29:41,321 642    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a70a3d8]
+2019-10-11 13:29:41,321 642    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a70a3d8]
+2019-10-11 13:29:41,322 643    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 712025048 to pool.
+2019-10-11 13:34:36,899 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:34:36,998 99     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:34:36,998 99     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:34:36,999 100    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:34:36,999 100    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:34:37,000 101    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:34:37,001 102    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:34:37,001 102    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:34:37,044 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:34:37,045 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:34:37,045 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:34:37,045 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:34:37,045 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:34:37,046 147    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 13:34:37,047 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:34:37,047 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:34:37,048 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:34:37,049 150    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:34:37,049 150    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:34:37,077 178    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:34:37,077 178    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:34:37,077 178    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:34:37,078 179    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:34:37,224 325    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 13:34:37,474 575    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 770189387.
+2019-10-11 13:34:37,474 575    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:34:37,476 577    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user WHERE username=? 
+2019-10-11 13:34:37,503 604    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 13:34:37,529 630    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 13:34:37,530 631    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:34:37,531 632    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:34:37,531 632    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 770189387 to pool.
+2019-10-11 13:35:40,810 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:35:40,883 73     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:35:40,883 73     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:35:40,884 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:35:40,884 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:35:40,885 75     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:35:40,886 76     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:35:40,886 76     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:35:40,922 112    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:35:40,923 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:35:40,923 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:35:40,923 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:35:40,923 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:35:40,924 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 13:35:40,924 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:35:40,924 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:35:40,925 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:35:40,926 116    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:35:40,926 116    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:35:40,952 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:35:40,953 143    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:35:40,953 143    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:35:40,953 143    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:35:41,082 272    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 13:35:41,326 516    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 770189387.
+2019-10-11 13:35:41,326 516    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:35:41,328 518    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user WHERE username=? 
+2019-10-11 13:35:41,353 543    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 13:35:41,372 562    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 13:35:41,375 565    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:35:41,375 565    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:35:41,375 565    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 770189387 to pool.
+2019-10-11 13:36:43,103 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:36:43,187 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:36:43,187 84     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:36:43,187 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:36:43,188 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:36:43,189 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:36:43,189 86     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:36:43,189 86     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:36:43,242 139    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:36:43,243 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:36:43,243 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:36:43,243 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:36:43,243 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:36:43,244 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 13:36:43,245 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:36:43,245 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:36:43,246 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:36:43,247 144    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:36:43,247 144    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:36:43,275 172    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:36:43,276 173    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:36:43,276 173    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:36:43,276 173    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:36:43,414 311    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 13:36:43,677 574    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 770189387.
+2019-10-11 13:36:43,677 574    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:36:43,679 576    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user WHERE username=? 
+2019-10-11 13:36:43,714 611    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String)
+2019-10-11 13:36:43,735 632    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 2
+2019-10-11 13:36:43,739 636    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:36:43,739 636    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2de8284b]
+2019-10-11 13:36:43,739 636    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 770189387 to pool.
+2019-10-11 13:37:18,398 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:37:18,471 73     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:37:18,471 73     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:37:18,472 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:37:18,472 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:37:18,473 75     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:37:18,473 75     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:37:18,473 75     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:37:18,515 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:37:18,516 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:37:18,516 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:37:18,516 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:37:18,516 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:37:18,517 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-10-11 13:37:18,517 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:37:18,518 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:37:18,519 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:37:18,519 121    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:37:18,520 122    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:37:18,544 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:37:18,544 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:37:18,544 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:37:18,544 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:37:18,659 261    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 13:37:18,891 493    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 399534175.
+2019-10-11 13:37:18,891 493    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d0685f]
+2019-10-11 13:37:18,893 495    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user WHERE username=? and sex=? 
+2019-10-11 13:37:18,918 520    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String), 男(String)
+2019-10-11 13:37:18,936 538    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 1
+2019-10-11 13:37:18,938 540    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d0685f]
+2019-10-11 13:37:18,938 540    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d0685f]
+2019-10-11 13:37:18,939 541    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 399534175 to pool.
+2019-10-11 13:56:03,186 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:56:03,279 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:56:03,279 93     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:56:03,279 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:56:03,280 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:56:03,280 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:56:03,280 94     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:56:03,281 95     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:56:03,328 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:56:03,329 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:56:03,329 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:56:03,329 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:56:03,329 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:56:03,330 144    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 13:56:03,330 144    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:56:03,331 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:56:03,331 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:56:03,332 146    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:56:03,332 146    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:56:03,361 175    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:56:03,361 175    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:56:03,361 175    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:56:03,362 176    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:57:03,841 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:57:03,921 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:57:03,921 80     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:57:03,922 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:57:03,922 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:57:03,923 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:57:03,924 83     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:57:03,924 83     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:57:03,969 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:57:03,969 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:57:03,970 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:57:03,970 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:57:03,970 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:57:03,971 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 13:57:03,971 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:57:03,971 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:57:03,972 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:57:03,973 132    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:57:03,973 132    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:57:03,999 158    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:57:03,999 158    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:57:03,999 158    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:57:03,999 158    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:58:39,295 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 13:58:39,368 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 13:58:39,369 75     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 13:58:39,369 75     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 13:58:39,370 76     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 13:58:39,370 76     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 13:58:39,371 77     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:58:39,371 77     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:58:39,409 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 13:58:39,409 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 13:58:39,410 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 13:58:39,410 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:58:39,410 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 13:58:39,411 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 13:58:39,411 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:58:39,411 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 13:58:39,412 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 13:58:39,413 119    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 13:58:39,414 120    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 13:58:39,437 143    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:58:39,438 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:58:39,438 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 13:58:39,438 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:09:26,857 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:09:26,955 99     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:09:26,955 99     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:09:26,956 100    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:09:26,956 100    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:09:26,957 101    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:09:26,957 101    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:09:26,958 102    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:09:27,006 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:09:27,006 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:09:27,013 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:09:27,013 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:09:27,013 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:09:27,014 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:09:27,015 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:09:27,015 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:09:27,016 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:09:27,016 160    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:09:27,017 161    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:09:27,045 189    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:09:27,046 190    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:09:27,046 190    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:09:27,046 190    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:10:56,563 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:10:56,639 76     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:10:56,640 77     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:10:56,640 77     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:10:56,640 77     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:10:56,641 78     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:10:56,641 78     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:10:56,641 78     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:10:56,676 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:10:56,676 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:10:56,677 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:10:56,677 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:10:56,677 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:10:56,678 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:10:56,678 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:10:56,678 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:10:56,679 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:10:56,679 116    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:10:56,681 118    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:10:56,704 141    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:10:56,704 141    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:10:56,704 141    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:10:56,705 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:11:24,952 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:11:25,021 69     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:11:25,021 69     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:11:25,021 69     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:11:25,022 70     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:11:25,022 70     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:11:25,023 71     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:11:25,023 71     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:11:25,061 109    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:11:25,061 109    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:11:25,062 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:11:25,062 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:11:25,062 110    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:11:25,063 111    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:11:25,063 111    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:11:25,064 112    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:11:25,065 113    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:11:25,065 113    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:11:25,066 114    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:11:25,090 138    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:11:25,090 138    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:11:25,090 138    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:11:25,090 138    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:13:46,686 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:13:46,764 78     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:13:46,764 78     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:13:46,764 78     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:13:46,765 79     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:13:46,766 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:13:46,766 80     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:13:46,767 81     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:13:46,813 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:13:46,814 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:13:46,814 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:13:46,814 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:13:46,814 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:13:46,815 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:13:46,816 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:13:46,816 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:13:46,817 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:13:46,817 131    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:13:46,818 132    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:13:46,848 162    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:13:46,848 162    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:13:46,848 162    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:13:46,848 162    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:19:19,252 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:19:19,340 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:19:19,340 89     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:19:19,340 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:19:19,341 90     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:19:19,342 91     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:19:19,342 91     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:19:19,343 92     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:19:19,387 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:19:19,387 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:19:19,388 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:19:19,388 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:19:19,388 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:19:19,389 138    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:19:19,390 139    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:19:19,390 139    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:19:19,391 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:19:19,391 140    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:19:19,392 141    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:19:19,418 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:19:19,418 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:19:19,418 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:19:19,418 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:04,669 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:22:04,752 83     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:22:04,752 83     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:22:04,753 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:22:04,753 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:22:04,753 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:22:04,754 85     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:04,754 85     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:04,803 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:22:04,804 135    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:22:04,805 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:04,805 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:22:04,805 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:22:04,806 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:22:04,806 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:22:04,806 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:22:04,807 138    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:22:04,808 139    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:22:04,809 140    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:22:04,834 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:04,834 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:04,834 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:04,834 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:40,694 1      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:22:40,786 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:22:40,786 93     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:22:40,786 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:22:40,787 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:22:40,787 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:22:40,788 95     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:40,788 95     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:40,833 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:22:40,833 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:22:40,833 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:22:40,833 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:22:40,834 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:22:40,834 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:22:40,835 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:22:40,835 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:22:40,836 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:22:40,836 143    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:22:40,837 144    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:22:40,863 170    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:40,863 170    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:40,863 170    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:22:40,863 170    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:23:26,310 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:23:26,391 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:23:26,392 82     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:23:26,392 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:23:26,392 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:23:26,393 83     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:23:26,393 83     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:23:26,393 83     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:23:26,433 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:23:26,434 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:23:26,434 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:23:26,434 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:23:26,434 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:23:26,435 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:23:26,435 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:23:26,436 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:23:26,436 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:23:26,437 127    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:23:26,438 128    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:23:26,462 152    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:23:26,462 152    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:23:26,463 153    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:23:26,463 153    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:23:26,590 280    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:23:26,801 491    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 2015781843.
+2019-10-11 14:23:26,801 491    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@782663d3]
+2019-10-11 14:23:26,803 493    [           main] DEBUG ao.UserDao.findUserByCondition  - ==>  Preparing: select *from user WHERE username=? and sex=? 
+2019-10-11 14:23:26,828 518    [           main] DEBUG ao.UserDao.findUserByCondition  - ==> Parameters: 老王(String), 男(String)
+2019-10-11 14:23:26,846 536    [           main] DEBUG ao.UserDao.findUserByCondition  - <==      Total: 1
+2019-10-11 14:23:26,849 539    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@782663d3]
+2019-10-11 14:23:26,849 539    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@782663d3]
+2019-10-11 14:23:26,849 539    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 2015781843 to pool.
+2019-10-11 14:25:22,366 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:25:22,445 79     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:25:22,446 80     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:25:22,446 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:25:22,446 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:25:22,447 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:25:22,447 81     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:25:22,447 81     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:25:22,487 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:25:22,487 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:25:22,487 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:25:22,487 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:25:22,488 122    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:25:22,488 122    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:25:22,489 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:25:22,489 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:25:22,489 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:25:22,490 124    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:25:22,490 124    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:25:22,513 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:25:22,513 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:25:22,514 148    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:25:22,514 148    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:25:22,644 278    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:25:22,867 501    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 278934944.
+2019-10-11 14:25:22,868 502    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:25:22,870 504    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==>  Preparing: select *from user WHERE id in ( ? , ? , ? , ? , ? ) 
+2019-10-11 14:25:22,896 530    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==> Parameters: 41(Integer), 42(Integer), 44(Integer), 43(Integer), 46(Integer)
+2019-10-11 14:25:22,917 551    [           main] DEBUG cast.dao.UserDao.findUserInIds  - <==      Total: 4
+2019-10-11 14:25:22,920 554    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:25:22,921 555    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:25:22,921 555    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 278934944 to pool.
+2019-10-11 14:27:13,858 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:27:13,938 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:27:13,938 80     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:27:13,939 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:27:13,939 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:27:13,940 82     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:27:13,940 82     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:27:13,940 82     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:27:13,978 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:27:13,978 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:27:13,979 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:27:13,980 122    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:27:13,980 122    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:27:13,981 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:27:13,981 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:27:13,981 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:27:13,982 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:27:13,983 125    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:27:13,983 125    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:27:14,008 150    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:27:14,009 151    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:27:14,009 151    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:27:14,009 151    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:27:14,144 286    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:27:14,385 527    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1134612201.
+2019-10-11 14:27:14,385 527    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43a0cee9]
+2019-10-11 14:27:14,387 529    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==>  Preparing: select *from user WHERE id in ( ? , ? , ? , ? , ? ) 
+2019-10-11 14:27:14,415 557    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==> Parameters: 41(Integer), 42(Integer), 44(Integer), 43(Integer), 46(Integer)
+2019-10-11 14:27:14,436 578    [           main] DEBUG cast.dao.UserDao.findUserInIds  - <==      Total: 4
+2019-10-11 14:27:14,440 582    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@43a0cee9]
+2019-10-11 14:27:14,441 583    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43a0cee9]
+2019-10-11 14:27:14,441 583    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1134612201 to pool.
+2019-10-11 14:28:01,251 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:28:01,327 76     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:28:01,327 76     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:28:01,327 76     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:28:01,328 77     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:28:01,328 77     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:28:01,328 77     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:01,328 77     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:01,367 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:28:01,367 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:28:01,367 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:01,368 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:28:01,368 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:28:01,369 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:28:01,369 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:28:01,369 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:28:01,370 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:28:01,371 120    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:28:01,371 120    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:28:01,395 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:01,395 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:01,395 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:01,395 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:23,355 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:28:23,442 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:28:23,442 87     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:28:23,443 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:28:23,444 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:28:23,445 90     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:28:23,445 90     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:23,445 90     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:23,486 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:28:23,486 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:28:23,486 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:28:23,486 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:28:23,487 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:28:23,487 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:28:23,488 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:28:23,488 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:28:23,489 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:28:23,489 134    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:28:23,490 135    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:28:23,515 160    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:23,515 160    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:23,515 160    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:23,515 160    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:28:23,669 314    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:28:23,895 540    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 278934944.
+2019-10-11 14:28:23,896 541    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:28:23,898 543    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==>  Preparing: select *from user WHERE id in ( ? , ? , ? , ? , ? ) 
+2019-10-11 14:28:23,921 566    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==> Parameters: 41(Integer), 42(Integer), 44(Integer), 43(Integer), 46(Integer)
+2019-10-11 14:28:23,945 590    [           main] DEBUG cast.dao.UserDao.findUserInIds  - <==      Total: 4
+2019-10-11 14:28:23,950 595    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:28:23,950 595    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:28:23,950 595    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 278934944 to pool.
+2019-10-11 14:31:24,457 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:31:24,544 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:31:24,544 87     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:31:24,545 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:31:24,545 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:31:24,546 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:31:24,546 89     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:24,547 90     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:24,588 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:31:24,589 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:31:24,589 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:24,589 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:31:24,589 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:31:24,590 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:31:24,590 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:31:24,591 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:31:24,591 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:31:24,592 135    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:31:24,592 135    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:31:24,620 163    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:24,620 163    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:24,620 163    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:24,620 163    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:24,793 336    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:31:25,064 607    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 278934944.
+2019-10-11 14:31:25,064 607    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:31:25,066 609    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==>  Preparing: select *from user; WHERE id in ( ? , ? , ? , ? , ? ) 
+2019-10-11 14:31:25,091 634    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==> Parameters: 41(Integer), 42(Integer), 44(Integer), 43(Integer), 46(Integer)
+2019-10-11 14:31:25,095 638    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:31:25,096 639    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:31:25,097 640    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 278934944 to pool.
+2019-10-11 14:31:49,680 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:31:49,754 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:31:49,754 74     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:31:49,754 74     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:31:49,755 75     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:31:49,755 75     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:31:49,755 75     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:49,756 76     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:49,797 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:31:49,798 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:31:49,798 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:31:49,798 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:31:49,798 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:31:49,799 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:31:49,800 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:31:49,800 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:31:49,801 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:31:49,801 121    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:31:49,802 122    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:31:49,827 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:49,827 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:49,827 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:49,827 147    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:31:49,928 248    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:31:50,150 470    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1665404403.
+2019-10-11 14:31:50,150 470    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@63440df3]
+2019-10-11 14:31:50,152 472    [           main] DEBUG com.itcast.dao.UserDao.findAll  - ==>  Preparing: select *from user; 
+2019-10-11 14:31:50,177 497    [           main] DEBUG com.itcast.dao.UserDao.findAll  - ==> Parameters: 
+2019-10-11 14:31:50,201 521    [           main] DEBUG com.itcast.dao.UserDao.findAll  - <==      Total: 10
+2019-10-11 14:31:50,204 524    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@63440df3]
+2019-10-11 14:31:50,205 525    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@63440df3]
+2019-10-11 14:31:50,205 525    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1665404403 to pool.
+2019-10-11 14:32:27,102 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-10-11 14:32:27,182 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-10-11 14:32:27,182 80     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-10-11 14:32:27,182 80     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-10-11 14:32:27,183 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-10-11 14:32:27,183 81     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-10-11 14:32:27,184 82     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:32:27,184 82     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:32:27,220 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: QueryVo.class
+2019-10-11 14:32:27,220 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-10-11 14:32:27,221 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain
+2019-10-11 14:32:27,221 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:32:27,221 119    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/QueryVo.class
+2019-10-11 14:32:27,222 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 %
+2019-10-11 14:32:27,222 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:32:27,222 120    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/IntelliJ%20IDEA%202019.2/IDEAWorkspace/frame/day03_eesy_02dynamicSQL/target/classes/com/itcast/domain/User.class
+2019-10-11 14:32:27,223 121    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 N
+2019-10-11 14:32:27,225 123    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.QueryVo matches criteria [is assignable to Object]
+2019-10-11 14:32:27,227 125    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itcast.domain.User matches criteria [is assignable to Object]
+2019-10-11 14:32:27,248 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:32:27,248 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:32:27,248 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:32:27,248 146    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-10-11 14:32:27,401 299    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-10-11 14:32:27,637 535    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 278934944.
+2019-10-11 14:32:27,638 536    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:32:27,640 538    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==>  Preparing: select *from user WHERE id in ( ? , ? , ? , ? , ? ) 
+2019-10-11 14:32:27,668 566    [           main] DEBUG cast.dao.UserDao.findUserInIds  - ==> Parameters: 41(Integer), 42(Integer), 44(Integer), 43(Integer), 46(Integer)
+2019-10-11 14:32:27,692 590    [           main] DEBUG cast.dao.UserDao.findUserInIds  - <==      Total: 4
+2019-10-11 14:32:27,697 595    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:32:27,697 595    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@10a035a0]
+2019-10-11 14:32:27,698 596    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 278934944 to pool.
